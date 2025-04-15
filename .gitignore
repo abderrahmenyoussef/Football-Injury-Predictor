@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Model files (if you want to track them, remove these lines)
+*.pkl
+
+# Logs
+*.log
